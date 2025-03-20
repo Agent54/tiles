@@ -17,7 +17,7 @@ export default function Home() {
           priority
           className="mx-auto mb-8"
         />
-        <h1 className="text-2xl font-semibold mb-4">Tiles</h1>
+        <h1 className="text-2xl font-semibold mb-4" style={{ color: "#F00" }}>Tiles</h1>
         <p className="text-lg">
           A new kind of notebook for making personal software.
           <br />
