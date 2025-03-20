@@ -36,7 +36,7 @@ export default function Home() {
         <Link href="https://www.tilekit.dev/" className="text-blue-500 hover:underline">
           Tilekit
         </Link>{" "}
-        for the underlying personal software runtime infrastructure.
+        for the underlying personal software framework.
       </footer>
     </div>
   );
