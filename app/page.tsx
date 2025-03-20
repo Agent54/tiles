@@ -34,7 +34,7 @@ export default function Home() {
       <footer className="text-sm text-gray-500 text-center w-full mt-8">
         Check{" "}
         <Link href="https://www.tilekit.dev/" className="text-blue-500 hover:underline">
-          tilekit.dev
+          Tilekit
         </Link>{" "}
         for the underlying personal software runtime infrastructure.
       </footer>
